@@ -46,6 +46,7 @@ In the realm of network analysis and security, Wireshark stands as a quintessent
 <ul>
   <li>Exploring Telnet and SSH (Secure Shell) protocols, we'll initiate sessions with remote devices. Capturing and analyzing traffic generated during these sessions using Wireshark enables us to assess security implications, contrasting the vulnerabilities of Telnet with the encrypted communication of SSH.</li>
 </ul>
+
 ![image](https://github.com/NATASHASAINI/WIRESHARK/assets/156629309/4048b4d9-bd3e-4a47-8d60-9a194693dd93)
 ![image](https://github.com/NATASHASAINI/WIRESHARK/assets/156629309/91e9ce90-f707-4fd4-89ef-7fc2b0312444)
 ![image](https://github.com/NATASHASAINI/WIRESHARK/assets/156629309/ef14a535-aea2-48a9-9768-6c4f11f00309)
